@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hello, I'm Darya Nerterova @darya999r.
 
-<!--
-**darya999r/darya999r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm junior to IT.
 
-Here are some ideas to get you started:
+😄 I’m interested in programming, learning python, mathematics and informatics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Python from Geekbrains.
+
+⚡ I wont to learn from professionals and become a good specialist in programming.
+
+👯 I love working in a team with smart and creative people.
+
+📫 How to reach me: Moscow, Russia
